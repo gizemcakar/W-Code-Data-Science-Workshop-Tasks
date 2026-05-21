@@ -1,0 +1,9 @@
+
+blog yazısı: Veri Biliminin En Sinsi Tuzağı: "Ezberci" Algoritmalar
+
+
+Diyelim ki harika bir fikir buldunuz ve bir makine öğrenimi modeli kuruyorsunuz. Günlerce uğraştınız, verileri temizlediniz, algoritmayı seçtiniz ve modeli eğittiniz. Ekranda o muhteşem yazıyı gördünüz: Başarı Oranı: %99.8.
+
+Kutlamalara başlayabilirsiniz, değil mi? Modeliniz bir dahi! Ancak bu modeli gerçek dünyaya, yani daha önce hiç görmediği yepyeni verilerin önüne çıkardığınızda bir anda çuvallıyor. Başarı oranı %50'lere çakılıyor.
+
+Peki ne oldu? Nerede hata yaptınız? Aslında modeliniz öğrenmedi; sadece ezberledi. Veri biliminde bu duruma Aşırı Öğrenme (Overfitting) diyoruz.
